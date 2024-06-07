@@ -8,5 +8,5 @@
 # Bước 3:
 - Cài đặt các thư viện cần thiết
 - Chạy file predict.ipynb
-
+- Ấn phím q để thoát, p để dự đoán
 
