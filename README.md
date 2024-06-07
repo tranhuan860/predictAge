@@ -2,7 +2,7 @@
 ## Bộ dữ liệu: [UTKFace|Kaggle](https://www.kaggle.com/datasets/jangedoo/utkface-new)
 - Bộ dữ liệu UTKFace là bộ dữ liệu khuôn mặt quy mô lớn với độ tuổi dài (từ 0 đến 116 tuổi). Bộ dữ liệu bao gồm hơn 20.000 hình ảnh khuôn mặt với chú thích về độ tuổi, giới tính và dân tộc. Các hình ảnh bao gồm sự thay đổi lớn về tư thế, nét mặt, độ sáng, độ che khuất, độ phân giải, v.v.. Kích thước các ảnh là 128x128 px.
 
-<img src="https://upanh.tv/image/Kdubv0">
+<img src="https://img.upanh.tv/2024/06/08/imageab64c8c7ca5b3385.png">
 
 ## Các bước cài đặt:
 ### Bước 1:
