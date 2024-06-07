@@ -30,7 +30,8 @@ Total params: 12,938,561 (49.36 MB)
 - Huấn luyện mô hình với 25 epochs
 <img src="https://img.upanh.tv/2024/06/08/imageda8bfd1a0ddde0f3.png">
 
-- Độ chính xác chưa cao lắm do bộ thiếu dữ liệu huấn luyện nhưng về cơ bản đã đạt đủ yêu câu ban đầu
+- Độ chính xác chưa cao lắm do bộ thiếu dữ liệu huấn luyện nhưng về cơ bản đã đạt đủ yêu cầu ban đầu
+- Loss = Chênh lệch giữa trung bình tuổi dự đoán và tuổi thật
   
 <img src="https://img.upanh.tv/2024/06/08/image4d919b1c24bd7065.png">
 
