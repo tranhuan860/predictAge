@@ -19,6 +19,11 @@
 | dropout_1 (Dropout)             | (None, 128)            |             0 |
 | dense_3 (Dense)                 | (None, 1)              |           129 |
 
+ 'Total params: 12,938,561 (49.36 MB)
+ Trainable params: 12,938,561 (49.36 MB)
+ Non-trainable params: 0 (0.00 B)'
+- Huấn luyện mô hình với 25 epochs
+
 
 ## Các bước cài đặt:
 ### Bước 1:
