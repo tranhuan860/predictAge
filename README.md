@@ -35,6 +35,7 @@ Total params: 12,938,561 (49.36 MB)
   
 <img src="https://img.upanh.tv/2024/06/08/image4d919b1c24bd7065.png">
 - Nhận thấy từ 70 tuổi trở lên Loss cao do ít dữ liệu huấn luyện
+
 ## Các bước cài đặt:
 ### Bước 1:
 - Clone repository này về máy
