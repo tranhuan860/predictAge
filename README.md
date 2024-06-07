@@ -19,13 +19,20 @@
 | dropout_1 (Dropout)             | (None, 128)            |             0 |
 | dense_3 (Dense)                 | (None, 1)              |           129 |
 
- ```Total params: 12,938,561 (49.36 MB)
+ ```
+Total params: 12,938,561 (49.36 MB)
  Trainable params: 12,938,561 (49.36 MB)
  Non-trainable params: 0 (0.00 B)
 ```
 
-- Huấn luyện mô hình với 25 epochs
+- Cấu hình mô hình với optimizer Adam, hàm tổn thất MAE, metrics là MSE
 
+- Huấn luyện mô hình với 25 epochs
+<img src="https://img.upanh.tv/2024/06/08/imageda8bfd1a0ddde0f3.png">
+
+- Độ chính xác chưa cao lắm do bộ thiếu dữ liệu huấn luyện nhưng về cơ bản đã đạt đủ yêu câu ban đầu
+  
+<img src="https://img.upanh.tv/2024/06/08/image4d919b1c24bd7065.png">
 
 ## Các bước cài đặt:
 ### Bước 1:
